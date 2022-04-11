@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Amita';
+    src: url('Amita-Regular.woff2') format('woff2'),
+        url('Amita-Regular.woff') format('woff'),
+        url('Amita-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amita-Bold';
+    src: url('Amita-Bold.woff2') format('woff2'),
+        url('Amita-Bold.woff') format('woff'),
+        url('Amita-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
